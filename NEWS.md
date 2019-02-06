@@ -1,3 +1,11 @@
+# testDriveR 0.5.1
+
+* Address NOTES found on Winbuilder prior to CRAN submission
+
+# testDriveR 0.5.0
+
+* Add an R Markdown template for completing assignments in my courses.
+
 # testDriveR 0.4.0
 
 * Added a `NEWS.md` file to track changes to the package.
