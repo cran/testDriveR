@@ -1,13 +1,12 @@
-e927927793e2c9817589f0ae2baa6ab5 *DESCRIPTION
+8f43e70d7074b50bc097f0dfd6eb47bd *DESCRIPTION
 dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
-de39ad43ed134570c0a5fc99096e6a81 *NEWS.md
+be997ef832a7618b44e5140f8fac8c7c *NEWS.md
 0460c1a46deabd790bee41373520e23c *R/auto17.R
 6beffb1690d11972c0aea07ad3fee8cb *R/childMortality.R
 d1979bb0ce0c603675a665c99e09a5a0 *R/gss14.R
 d2c85890ee162c7966e8a823e97ca6aa *R/gss14_simple.R
 307925e5326defe7c42e6b9435ca1a9d *R/kerrich.R
-16083ea44ae3d525f74939b090bfb49a *R/testDriveR-package.R
-ed266012b3bfae17b000f56d8e400692 *README.md
+818ff6e9d2a7a259a2e77edfa51340fa *README.md
 6e56e02cf2cde771eb284a8d366b86a4 *data/auto17.RData
 1278d2e248f5a8e0b31a18c8b53d4ae2 *data/childMortality.RData
 5752c8723cb3aebdb3b1ab802fc119d2 *data/gss14.rda
@@ -23,7 +22,6 @@ cc667410333fd2ce25cc25e9c46dee37 *man/childMortality.Rd
 8ccd0199cfa017b9a11bae826b8d1d67 *man/gss14.Rd
 70fe1be58cd326d0d8ef13b99539e1c6 *man/gss14_simple.Rd
 4087a5f34699df3f5d33f78e50516345 *man/kerrich.Rd
-b28ae3ee4102c8d8c050fda9234c80bc *man/testDriveR.Rd
 ff19441fc3d257911273c6f0d3cf6078 *tests/testthat.R
 ea56c28f00175c111dfb20c5efb32afa *tests/testthat/auto17.Rdata
 a12da5c30d9603ce465307234c98ea34 *tests/testthat/childMortality.RData
